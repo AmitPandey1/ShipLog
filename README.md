@@ -2,7 +2,9 @@
 
 **SHIP.LOG** is a premium, developer-focused Chrome Extension designed to help software engineers track their daily velocity, manage pending Merge Requests, and visualize their productivity without the bloat of heavy project management tools.
 
-![SHIP.LOG Screenshot](https://via.placeholder.com/800x450.png?text=SHIP.LOG+Screenshot) <!-- Replace with actual screenshot path -->
+![SHIP.LOG Screenshot](./assets/screenshot.png)
+![SHIP.LOG Screenshot](./assets/screenshot2.png)
+![SHIP.LOG Screenshot](./assets/screenshot3.png)
 
 ## ✨ Features
 
